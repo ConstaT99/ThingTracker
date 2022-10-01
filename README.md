@@ -20,10 +20,15 @@ To improve the user experience, we would like to develop an android application 
 ## TIMELINE:
 
 Week 5: Buy all necessary hardware and install all necessary software
+
 Week 6 and 7: start to assemble hardwares and install linux on arduino
+
 Week 8 & 9: Program phone application and Implement functionality
+
 Week 10 & 11:  Program phone application and Implement functionality
+
 Week 12 & 13: Test all hardware and software function and ready for video presentation
+
 Week 14 & 15: 12/11 project deliver 
 
 ## DEVICES:
