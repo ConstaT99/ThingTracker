@@ -49,13 +49,19 @@ https://www.amazon.com/Battery-Packs-Lithium-Polymer-100mAh/dp/B0137KTPP0/ref=sr
 ### Programming language: C++ & Java
 
 ## Core Features:
-Sound:	
+### Sound:	
+
 If the tracker is covered by the cloth or hidden in a hard-to-find place, sound will help users to find their things.
+
 Users can turn on and turn off the buzz.
-WiFi distance detect:
+
+### WiFi distance detect:
+
 By using the wifi module, we can detect distance and angle between smartphone and the tracker. So that we can use this information to help users find their things.
-BlueTooth disconnect reminder:
+
+### BlueTooth disconnect reminder:
 Usually this kind of function is included in subscriptions, now it's free for us
+
 Once the user selected the reminder button. Once the tracker is disconnected with the phone, the application will send a notification to the user to remind them, things might be lost so that they can return to the place and find them.
 
 ## Possible Features:
