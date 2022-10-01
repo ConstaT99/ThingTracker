@@ -59,7 +59,7 @@ Usually this kind of function is included in subscriptions, now it's free for us
 Once the user selected the reminder button. Once the tracker is disconnected with the phone, the application will send a notification to the user to remind them, things might be lost so that they can return to the place and find them.
 
 ## Possible Features:
-     location:
+location:
 By using wifi information to provide an accurate location for users to find their things.
 Using wifi network to provide a general location 
 
